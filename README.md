@@ -1,2 +1,2 @@
-![Banner](assets/banner.png)
+![Banner](assets/default.png)
 # Inferno Trigger Bot - Whatsapp Edition
