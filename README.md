@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
+![Banner](assets/banner.png)
+# Inferno Trigger Bot - Whatsapp Edition
