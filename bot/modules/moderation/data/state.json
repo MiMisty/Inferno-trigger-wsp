@@ -1,0 +1,2331 @@
+{
+  "blacklist": {
+    "120363217414583189@g.us": {},
+    "120363408374129792@g.us": {
+      "57420105691274@lid": {
+        "by": "190911615111295",
+        "at": "2026-06-21T04:13:59.434Z"
+      },
+      "87471991836799@lid": {
+        "by": "188309351444544",
+        "at": "2026-06-21T04:14:14.850Z"
+      }
+    },
+    "120363420010950538@newsletter": {},
+    "status@broadcast": {},
+    "573218048312-1628401968@g.us": {},
+    "137975874768987@lid": {},
+    "190911615111295@lid": {},
+    "120363394791719983@g.us": {},
+    "120363423912748504@g.us": {
+      "56874527383732@lid": {
+        "by": "57420105691274",
+        "at": "2026-06-21T20:21:19.932Z"
+      }
+    },
+    "120363286816317926@g.us": {},
+    "120363423912748504": {},
+    "120363408374129792": {},
+    "120363217414583189": {}
+  },
+  "warnings": {
+    "120363217414583189": {
+      "75845599277104": {
+        "count": 1,
+        "reasons": [
+          {
+            "at": "2026-06-21T04:59:14.586Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "75845599277104"
+          }
+        ]
+      }
+    },
+    "120363408374129792": {
+      "279387941396497": {
+        "count": 15,
+        "reasons": [
+          {
+            "at": "2026-06-21T03:43:40.601Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.604Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.608Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.614Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.618Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.619Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.620Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.621Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.622Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.624Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.626Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.635Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.637Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.641Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          },
+          {
+            "at": "2026-06-21T03:43:40.642Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "279387941396497"
+          }
+        ]
+      },
+      "222101566943277": {
+        "count": 6,
+        "reasons": [
+          {
+            "at": "2026-06-21T03:43:40.605Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "222101566943277"
+          },
+          {
+            "at": "2026-06-21T03:43:40.606Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "222101566943277"
+          },
+          {
+            "at": "2026-06-21T03:43:40.609Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "222101566943277"
+          },
+          {
+            "at": "2026-06-21T03:43:40.611Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "222101566943277"
+          },
+          {
+            "at": "2026-06-21T03:43:40.616Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "222101566943277"
+          },
+          {
+            "at": "2026-06-21T03:43:40.617Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "222101566943277"
+          }
+        ]
+      },
+      "87471991836799": {
+        "count": 7,
+        "reasons": [
+          {
+            "at": "2026-06-21T03:43:40.612Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "87471991836799"
+          },
+          {
+            "at": "2026-06-21T03:43:40.628Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "87471991836799"
+          },
+          {
+            "at": "2026-06-21T03:43:40.629Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "87471991836799"
+          },
+          {
+            "at": "2026-06-21T03:43:40.631Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "87471991836799"
+          },
+          {
+            "at": "2026-06-21T03:43:40.632Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "87471991836799"
+          },
+          {
+            "at": "2026-06-21T03:43:40.633Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "87471991836799"
+          },
+          {
+            "at": "2026-06-21T03:43:40.638Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "87471991836799"
+          }
+        ]
+      },
+      "247588389449728": {
+        "count": 2,
+        "reasons": [
+          {
+            "at": "2026-06-21T03:43:40.625Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "247588389449728"
+          },
+          {
+            "at": "2026-06-21T03:43:40.634Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "247588389449728"
+          }
+        ]
+      },
+      "188309351444544": {
+        "count": 3,
+        "reasons": [
+          {
+            "at": "2026-06-21T03:43:40.639Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "188309351444544"
+          },
+          {
+            "at": "2026-06-21T03:43:40.640Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "188309351444544"
+          },
+          {
+            "at": "2026-06-21T03:43:40.803Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "188309351444544"
+          }
+        ]
+      }
+    },
+    "120363420010950538": {},
+    "status": {
+      "273040248144041": {
+        "count": 1,
+        "reasons": [
+          {
+            "at": "2026-06-21T05:50:31.794Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "273040248144041"
+          }
+        ]
+      }
+    },
+    "573218048312-1628401968": {
+      "51213190062317": {
+        "count": 3,
+        "reasons": [
+          {
+            "at": "2026-06-21T20:46:12.917Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "51213190062317"
+          },
+          {
+            "at": "2026-06-21T20:46:13.795Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "51213190062317"
+          },
+          {
+            "at": "2026-06-21T20:46:14.781Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "51213190062317"
+          }
+        ]
+      }
+    },
+    "137975874768987": {},
+    "190911615111295": {},
+    "120363394791719983": {},
+    "120363423912748504": {
+      "211274038255636": {
+        "count": 16,
+        "reasons": [
+          {
+            "at": "2026-06-22T00:27:54.388Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:16.939Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:16.946Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:16.995Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:16.999Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:17.006Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:17.010Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:17.013Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:17.016Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:17.022Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T00:43:17.025Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T01:42:23.884Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T01:42:23.976Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T01:42:24.079Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T01:56:21.779Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          },
+          {
+            "at": "2026-06-22T01:56:21.790Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "211274038255636"
+          }
+        ]
+      },
+      "15315853438979": {
+        "count": 5,
+        "reasons": [
+          {
+            "at": "2026-06-22T00:43:16.910Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "15315853438979"
+          },
+          {
+            "at": "2026-06-22T00:43:16.942Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "15315853438979"
+          },
+          {
+            "at": "2026-06-22T00:43:16.948Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "15315853438979"
+          },
+          {
+            "at": "2026-06-22T00:43:17.002Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "15315853438979"
+          },
+          {
+            "at": "2026-06-22T00:43:17.019Z",
+            "reason": "anti spam",
+            "source": "anti-spam",
+            "by": "15315853438979"
+          }
+        ]
+      }
+    },
+    "120363286816317926": {}
+  },
+  "muted": {
+    "120363217414583189@g.us": {},
+    "120363408374129792@g.us": {},
+    "120363420010950538@newsletter": {},
+    "status@broadcast": {},
+    "573218048312-1628401968@g.us": {},
+    "137975874768987@lid": {},
+    "190911615111295@lid": {},
+    "120363394791719983@g.us": {},
+    "120363423912748504@g.us": {},
+    "120363286816317926@g.us": {},
+    "120363423912748504": {},
+    "120363408374129792": {},
+    "120363217414583189": {}
+  },
+  "logs": [
+    {
+      "at": "2026-06-21T03:00:11.917Z",
+      "type": "delete",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "AC3C34FC6FEF56C05F797453FCF28B37",
+      "ok": true
+    },
+    {
+      "at": "2026-06-21T03:00:34.898Z",
+      "type": "mute",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "271914496987348"
+    },
+    {
+      "at": "2026-06-21T03:00:39.327Z",
+      "type": "mute-hit",
+      "group": "120363217414583189@g.us",
+      "sender": "271914496987348",
+      "text": "Que"
+    },
+    {
+      "at": "2026-06-21T03:19:13.616Z",
+      "type": "mute-hit",
+      "group": "120363217414583189@g.us",
+      "sender": "271914496987348",
+      "text": "/help"
+    },
+    {
+      "at": "2026-06-21T03:20:03.510Z",
+      "type": "unmute",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "271914496987348"
+    },
+    {
+      "at": "2026-06-21T03:43:40.601Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.604Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.605Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "222101566943277",
+      "by": "222101566943277",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.606Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "222101566943277",
+      "by": "222101566943277",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.608Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.609Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "222101566943277",
+      "by": "222101566943277",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.611Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "222101566943277",
+      "by": "222101566943277",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.612Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "87471991836799",
+      "by": "87471991836799",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.614Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.616Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "222101566943277",
+      "by": "222101566943277",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.617Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "222101566943277",
+      "by": "222101566943277",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.618Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.619Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.620Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.621Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.622Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.624Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.625Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "247588389449728",
+      "by": "247588389449728",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.626Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.628Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "87471991836799",
+      "by": "87471991836799",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.629Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "87471991836799",
+      "by": "87471991836799",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.631Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "87471991836799",
+      "by": "87471991836799",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.632Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "87471991836799",
+      "by": "87471991836799",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.633Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "87471991836799",
+      "by": "87471991836799",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.634Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "247588389449728",
+      "by": "247588389449728",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.635Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.637Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.638Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "87471991836799",
+      "by": "87471991836799",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.639Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "188309351444544",
+      "by": "188309351444544",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.640Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "188309351444544",
+      "by": "188309351444544",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.641Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.642Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "279387941396497",
+      "by": "279387941396497",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T03:43:40.803Z",
+      "type": "warning",
+      "group": "120363408374129792@g.us",
+      "target": "188309351444544",
+      "by": "188309351444544",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T04:13:59.435Z",
+      "type": "blacklist-add",
+      "group": "120363408374129792@g.us",
+      "by": "190911615111295",
+      "target": "57420105691274"
+    },
+    {
+      "at": "2026-06-21T04:14:14.850Z",
+      "type": "blacklist-add",
+      "group": "120363408374129792@g.us",
+      "by": "188309351444544",
+      "target": "87471991836799"
+    },
+    {
+      "at": "2026-06-21T04:14:16.465Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Tutoto"
+    },
+    {
+      "at": "2026-06-21T04:16:05.272Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Mielda"
+    },
+    {
+      "at": "2026-06-21T04:16:17.237Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "tuche"
+    },
+    {
+      "at": "2026-06-21T04:16:23.333Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Singatumai"
+    },
+    {
+      "at": "2026-06-21T04:16:28.469Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Mmg"
+    },
+    {
+      "at": "2026-06-21T04:16:34.357Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Bro"
+    },
+    {
+      "at": "2026-06-21T04:16:44.880Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Tutoto"
+    },
+    {
+      "at": "2026-06-21T04:16:48.160Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Ayuda"
+    },
+    {
+      "at": "2026-06-21T04:16:54.937Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "MAMAGUEVO"
+    },
+    {
+      "at": "2026-06-21T04:17:06.017Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "M voy a salir"
+    },
+    {
+      "at": "2026-06-21T04:17:16.114Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Del maldito grupo del diablo"
+    },
+    {
+      "at": "2026-06-21T04:17:33.791Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Les tengo una maldita rabia"
+    },
+    {
+      "at": "2026-06-21T04:17:44.340Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Mmg"
+    },
+    {
+      "at": "2026-06-21T04:17:50.752Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "AHHHH"
+    },
+    {
+      "at": "2026-06-21T04:18:05.477Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Basta"
+    },
+    {
+      "at": "2026-06-21T04:18:43.376Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Que"
+    },
+    {
+      "at": "2026-06-21T04:18:47.350Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "El bot necesita ser admin."
+    },
+    {
+      "at": "2026-06-21T04:18:54.272Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Ijos de perra"
+    },
+    {
+      "at": "2026-06-21T04:19:12.521Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Les tengo una rabia"
+    },
+    {
+      "at": "2026-06-21T04:21:13.395Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Te amo mi bebé hermoso"
+    },
+    {
+      "at": "2026-06-21T04:21:39.677Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Dejen de joderme"
+    },
+    {
+      "at": "2026-06-21T04:22:06.118Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "W e"
+    },
+    {
+      "at": "2026-06-21T04:22:09.935Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Mmg"
+    },
+    {
+      "at": "2026-06-21T04:23:48.665Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "YA DEJEN DE JODERME MMG TO"
+    },
+    {
+      "at": "2026-06-21T04:23:53.758Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Los odio"
+    },
+    {
+      "at": "2026-06-21T04:25:13.496Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "M tienen jalta"
+    },
+    {
+      "at": "2026-06-21T04:34:29.336Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Mira maldito ridículo"
+    },
+    {
+      "at": "2026-06-21T04:35:21.838Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Y el chite"
+    },
+    {
+      "at": "2026-06-21T04:38:40.337Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "W"
+    },
+    {
+      "at": "2026-06-21T04:54:31.679Z",
+      "type": "delete",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "AC909C0E907580CDA2B11C1A0A012ECA",
+      "ok": true
+    },
+    {
+      "at": "2026-06-21T04:54:34.733Z",
+      "type": "delete",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "3AE822CED26D00DA3BB7",
+      "ok": true
+    },
+    {
+      "at": "2026-06-21T04:54:48.728Z",
+      "type": "delete",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "3A4FAAED34771C74683E",
+      "ok": true
+    },
+    {
+      "at": "2026-06-21T04:55:20.349Z",
+      "type": "delete",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "3A2CAF3E2C2EEEC6ADE7",
+      "ok": true
+    },
+    {
+      "at": "2026-06-21T04:59:14.586Z",
+      "type": "warning",
+      "group": "120363217414583189@g.us",
+      "target": "75845599277104",
+      "by": "75845599277104",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T05:26:25.768Z",
+      "type": "delete",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "2AA980DA3F0E57FC1436",
+      "ok": true
+    },
+    {
+      "at": "2026-06-21T05:50:31.795Z",
+      "type": "warning",
+      "group": "status@broadcast",
+      "target": "273040248144041",
+      "by": "273040248144041",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T19:05:28.704Z",
+      "type": "mute",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-21T19:05:35.373Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Miau?"
+    },
+    {
+      "at": "2026-06-21T19:05:40.906Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Ay gonorrea"
+    },
+    {
+      "at": "2026-06-21T19:05:44.921Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Jajaja"
+    },
+    {
+      "at": "2026-06-21T19:05:47.024Z",
+      "type": "unmute",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-21T19:07:24.174Z",
+      "type": "mute",
+      "group": "120363423912748504@g.us",
+      "by": "56874527383732",
+      "target": "57420105691274"
+    },
+    {
+      "at": "2026-06-21T19:07:33.975Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "57420105691274",
+      "target": "57420105691274",
+      "text": "Tontos"
+    },
+    {
+      "at": "2026-06-21T19:07:39.949Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "57420105691274",
+      "target": "57420105691274",
+      "text": "Ah pero mira"
+    },
+    {
+      "at": "2026-06-21T19:08:12.186Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "57420105691274",
+      "target": "57420105691274",
+      "text": "Es unmute"
+    },
+    {
+      "at": "2026-06-21T19:08:16.520Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "57420105691274",
+      "target": "57420105691274",
+      "text": "Ahuevado"
+    },
+    {
+      "at": "2026-06-21T19:08:19.414Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "57420105691274",
+      "target": "57420105691274",
+      "text": "Ah pero"
+    },
+    {
+      "at": "2026-06-21T19:08:25.578Z",
+      "type": "unmute",
+      "group": "120363423912748504@g.us",
+      "by": "56874527383732",
+      "target": "57420105691274"
+    },
+    {
+      "at": "2026-06-21T19:53:08.028Z",
+      "type": "mute",
+      "group": "120363423912748504@g.us",
+      "by": "56874527383732",
+      "target": "52493425848404"
+    },
+    {
+      "at": "2026-06-21T19:53:19.532Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "52493425848404",
+      "target": "52493425848404",
+      "text": "🖕"
+    },
+    {
+      "at": "2026-06-21T19:53:29.430Z",
+      "type": "unmute",
+      "group": "120363423912748504@g.us",
+      "by": "56874527383732",
+      "target": "52493425848404"
+    },
+    {
+      "at": "2026-06-21T20:01:25.527Z",
+      "type": "mute",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-21T20:01:48.369Z",
+      "type": "mute",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-21T20:02:02.925Z",
+      "type": "unmute",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-21T20:02:10.809Z",
+      "type": "mute",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-21T20:02:17.009Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Hola"
+    },
+    {
+      "at": "2026-06-21T20:02:20.156Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Jajaja"
+    },
+    {
+      "at": "2026-06-21T20:02:25.168Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Igual los pueden leer"
+    },
+    {
+      "at": "2026-06-21T20:02:30.897Z",
+      "type": "mute-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Miau"
+    },
+    {
+      "at": "2026-06-21T20:02:36.357Z",
+      "type": "unmute",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-21T20:21:19.932Z",
+      "type": "blacklist-add",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "target": "56874527383732"
+    },
+    {
+      "at": "2026-06-21T20:21:28.587Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Jajjay"
+    },
+    {
+      "at": "2026-06-21T20:21:35.376Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Que creyó"
+    },
+    {
+      "at": "2026-06-21T20:21:57.668Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Disque a la blacklist"
+    },
+    {
+      "at": "2026-06-21T20:22:34.723Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Vuelve el conteo"
+    },
+    {
+      "at": "2026-06-21T20:22:46.965Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "5"
+    },
+    {
+      "at": "2026-06-21T20:22:52.795Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "4"
+    },
+    {
+      "at": "2026-06-21T20:23:01.306Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Está vez saco al bot"
+    },
+    {
+      "at": "2026-06-21T20:23:04.049Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "3"
+    },
+    {
+      "at": "2026-06-21T20:23:27.763Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Quiteme la blacklist"
+    },
+    {
+      "at": "2026-06-21T20:23:30.252Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "3"
+    },
+    {
+      "at": "2026-06-21T20:23:38.527Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "! expansión de dominio"
+    },
+    {
+      "at": "2026-06-21T20:23:45.244Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "2"
+    },
+    {
+      "at": "2026-06-21T20:24:00.237Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "!Goku va a sacarte el pupu"
+    },
+    {
+      "at": "2026-06-21T20:24:07.011Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "1"
+    },
+    {
+      "at": "2026-06-21T20:24:13.345Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "! chiquito es cacorro"
+    },
+    {
+      "at": "2026-06-21T20:24:25.987Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "3 otra vez porque es verdad"
+    },
+    {
+      "at": "2026-06-21T20:24:36.844Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "2"
+    },
+    {
+      "at": "2026-06-21T20:25:16.206Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Pongan 1 en el chat y saco al bot"
+    },
+    {
+      "at": "2026-06-21T20:26:47.858Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Uyyy"
+    },
+    {
+      "at": "2026-06-21T20:27:06.674Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Hasta ahí"
+    },
+    {
+      "at": "2026-06-21T20:33:46.103Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Y el hosteo"
+    },
+    {
+      "at": "2026-06-21T20:33:49.488Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "?"
+    },
+    {
+      "at": "2026-06-21T20:35:06.954Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "@211274038255636"
+    },
+    {
+      "at": "2026-06-21T20:35:54.526Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "@211274038255636"
+    },
+    {
+      "at": "2026-06-21T20:36:14.502Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Aaa pensé que no se veían mis mensajes"
+    },
+    {
+      "at": "2026-06-21T20:36:45.126Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Jajajaja"
+    },
+    {
+      "at": "2026-06-21T20:40:36.496Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "C murió"
+    },
+    {
+      "at": "2026-06-21T20:41:50.870Z",
+      "type": "delete",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "target": "ACCEFA15752C9528BAA5F3B99A60476A",
+      "ok": true
+    },
+    {
+      "at": "2026-06-21T20:46:12.917Z",
+      "type": "warning",
+      "group": "573218048312-1628401968@g.us",
+      "target": "51213190062317",
+      "by": "51213190062317",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T20:46:13.795Z",
+      "type": "warning",
+      "group": "573218048312-1628401968@g.us",
+      "target": "51213190062317",
+      "by": "51213190062317",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T20:46:14.781Z",
+      "type": "warning",
+      "group": "573218048312-1628401968@g.us",
+      "target": "51213190062317",
+      "by": "51213190062317",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-21T20:50:13.174Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Tranqui"
+    },
+    {
+      "at": "2026-06-21T20:50:19.380Z",
+      "type": "blacklist-hit",
+      "group": "120363423912748504@g.us",
+      "sender": "56874527383732",
+      "text": "Es temporal"
+    },
+    {
+      "at": "2026-06-21T20:50:59.891Z",
+      "type": "blacklist-hit",
+      "group": "120363408374129792@g.us",
+      "sender": "87471991836799",
+      "text": "Ese mmg"
+    },
+    {
+      "at": "2026-06-22T00:01:58.951Z",
+      "type": "mute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "31022666256627"
+    },
+    {
+      "at": "2026-06-22T00:02:11.072Z",
+      "type": "mute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:02:14.204Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "hola"
+    },
+    {
+      "at": "2026-06-22T00:02:23.565Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "puso mensajes y no stickers"
+    },
+    {
+      "at": "2026-06-22T00:02:24.643Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "bobo"
+    },
+    {
+      "at": "2026-06-22T00:02:28.970Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "quite eso"
+    },
+    {
+      "at": "2026-06-22T00:02:32.236Z",
+      "type": "unmute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:03:21.209Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "31022666256627",
+      "target": "31022666256627",
+      "text": "hola"
+    },
+    {
+      "at": "2026-06-22T00:03:28.842Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "31022666256627",
+      "target": "31022666256627",
+      "text": "quítenme eso"
+    },
+    {
+      "at": "2026-06-22T00:03:37.446Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "31022666256627",
+      "target": "31022666256627",
+      "text": "quítenme eso"
+    },
+    {
+      "at": "2026-06-22T00:03:38.383Z",
+      "type": "unmute",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "target": "31022666256627"
+    },
+    {
+      "at": "2026-06-22T00:10:27.298Z",
+      "type": "mute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:10:33.186Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "maricon"
+    },
+    {
+      "at": "2026-06-22T00:11:01.463Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "y no sirve"
+    },
+    {
+      "at": "2026-06-22T00:11:08.799Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "mutee otra vez"
+    },
+    {
+      "at": "2026-06-22T00:11:21.026Z",
+      "type": "unmute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:13:14.926Z",
+      "type": "mute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:13:34.707Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "nada"
+    },
+    {
+      "at": "2026-06-22T00:13:37.408Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "no sirve"
+    },
+    {
+      "at": "2026-06-22T00:13:48.009Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "!unmute @57420105691274"
+    },
+    {
+      "at": "2026-06-22T00:14:00.331Z",
+      "type": "unmute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:14:25.670Z",
+      "type": "delete",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "2A34BD24A4C0F939001F",
+      "ok": true
+    },
+    {
+      "at": "2026-06-22T00:14:39.510Z",
+      "type": "delete",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "AC27CB8967FB904DB2CA67B68B72E427",
+      "ok": true
+    },
+    {
+      "at": "2026-06-22T00:22:58.255Z",
+      "type": "mute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:23:18.700Z",
+      "type": "delete",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "ACDB1EBF760F7864765E195ECFE7C26A",
+      "ok": true
+    },
+    {
+      "at": "2026-06-22T00:27:54.388Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:28:22.493Z",
+      "type": "delete",
+      "group": "120363423912748504",
+      "by": "57420105691274",
+      "target": "AC5A8C2BF56F8926D1BDBFC5A983A682",
+      "ok": true
+    },
+    {
+      "at": "2026-06-22T00:28:32.894Z",
+      "type": "delete",
+      "group": "120363423912748504",
+      "by": "57420105691274",
+      "target": "ACD029B988716C4E1D6012B373FEF77A",
+      "ok": true
+    },
+    {
+      "at": "2026-06-22T00:43:16.911Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "15315853438979",
+      "by": "15315853438979",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:16.939Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:16.942Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "15315853438979",
+      "by": "15315853438979",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:16.946Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:16.948Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "15315853438979",
+      "by": "15315853438979",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:16.952Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "75845599277104",
+      "target": "75845599277104",
+      "text": "metase a discord"
+    },
+    {
+      "at": "2026-06-22T00:43:16.995Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:16.999Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.002Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "15315853438979",
+      "by": "15315853438979",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.006Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.010Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.013Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.016Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.019Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "15315853438979",
+      "by": "15315853438979",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.022Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:17.025Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T00:43:58.063Z",
+      "type": "delete",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "3EB0449E1B2DB4DBDDAC79",
+      "ok": true
+    },
+    {
+      "at": "2026-06-22T00:58:16.493Z",
+      "type": "unmute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:58:47.508Z",
+      "type": "mute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T00:59:14.503Z",
+      "type": "unmute",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "75845599277104"
+    },
+    {
+      "at": "2026-06-22T01:04:56.794Z",
+      "type": "delete",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "target": "3EB05CC34DD95FE0133C3A",
+      "ok": true
+    },
+    {
+      "at": "2026-06-22T01:25:02.030Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "52493425848404"
+    },
+    {
+      "at": "2026-06-22T01:25:12.747Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "52493425848404"
+    },
+    {
+      "at": "2026-06-22T01:25:22.707Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-22T01:25:27.299Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Ayudasa"
+    },
+    {
+      "at": "2026-06-22T01:25:30.995Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Demonios"
+    },
+    {
+      "at": "2026-06-22T01:25:39.374Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:25:40.085Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Solo uno a la vez"
+    },
+    {
+      "at": "2026-06-22T01:25:51.164Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Perro hijueputa"
+    },
+    {
+      "at": "2026-06-22T01:25:52.014Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Soy gay!!!!"
+    },
+    {
+      "at": "2026-06-22T01:25:57.576Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "211274038255636",
+      "target": "211274038255636",
+      "text": "Jajaja"
+    },
+    {
+      "at": "2026-06-22T01:26:01.618Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Uy chiquito"
+    },
+    {
+      "at": "2026-06-22T01:26:04.121Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Eso sí lo ví"
+    },
+    {
+      "at": "2026-06-22T01:26:05.747Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-22T01:26:12.308Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Disque chiquito es gay"
+    },
+    {
+      "at": "2026-06-22T01:26:33.499Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:26:49.629Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "52493425848404"
+    },
+    {
+      "at": "2026-06-22T01:27:16.996Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "52493425848404",
+      "target": "52493425848404",
+      "text": "! roulette 115 negro"
+    },
+    {
+      "at": "2026-06-22T01:28:03.155Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "52493425848404"
+    },
+    {
+      "at": "2026-06-22T01:30:47.532Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:31:15.693Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Ya"
+    },
+    {
+      "at": "2026-06-22T01:31:18.480Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Desmuteeme"
+    },
+    {
+      "at": "2026-06-22T01:31:33.452Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "No borra los audios"
+    },
+    {
+      "at": "2026-06-22T01:31:44.652Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:36:26.522Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:37:06.944Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:38:51.464Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:39:03.314Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-22T01:39:29.959Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "211274038255636"
+    },
+    {
+      "at": "2026-06-22T01:42:23.245Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Oe ese bot qué"
+    },
+    {
+      "at": "2026-06-22T01:42:23.263Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Uy amigos"
+    },
+    {
+      "at": "2026-06-22T01:42:23.593Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "!alarma a las 15:00"
+    },
+    {
+      "at": "2026-06-22T01:42:23.793Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Pirobo seduce al pc"
+    },
+    {
+      "at": "2026-06-22T01:42:23.803Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Disque con razón se le sobrecalienta el pc"
+    },
+    {
+      "at": "2026-06-22T01:42:23.884Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T01:42:23.966Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Ese bot se prendió solo o qué"
+    },
+    {
+      "at": "2026-06-22T01:42:23.976Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T01:42:24.014Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Irrespetuoso"
+    },
+    {
+      "at": "2026-06-22T01:42:24.045Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Y al bot?"
+    },
+    {
+      "at": "2026-06-22T01:42:24.056Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Ese pirobo ya lo había apagado"
+    },
+    {
+      "at": "2026-06-22T01:42:24.067Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Uy"
+    },
+    {
+      "at": "2026-06-22T01:42:24.079Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T01:43:28.010Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "15315853438979",
+      "target": "15315853438979",
+      "text": "Ojo que el bot borra el grupo"
+    },
+    {
+      "at": "2026-06-22T01:44:29.670Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "target": "15315853438979"
+    },
+    {
+      "at": "2026-06-22T01:45:42.126Z",
+      "type": "mute",
+      "group": "120363423912748504",
+      "by": "57420105691274",
+      "target": "56874527383732"
+    },
+    {
+      "at": "2026-06-22T01:45:51.873Z",
+      "type": "mute-hit",
+      "group": "120363423912748504",
+      "sender": "56874527383732",
+      "target": "56874527383732",
+      "text": "Papi usted tiene los poderes y pone eso"
+    },
+    {
+      "at": "2026-06-22T01:45:54.400Z",
+      "type": "unmute",
+      "group": "120363423912748504",
+      "by": "57420105691274",
+      "target": "56874527383732"
+    },
+    {
+      "at": "2026-06-22T01:56:21.779Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T01:56:21.790Z",
+      "type": "warning",
+      "group": "120363423912748504",
+      "target": "211274038255636",
+      "by": "211274038255636",
+      "reason": "anti spam",
+      "source": "anti-spam"
+    },
+    {
+      "at": "2026-06-22T04:13:20.949Z",
+      "type": "mute",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "target": "271914496987348"
+    },
+    {
+      "at": "2026-06-22T04:13:22.044Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "271914496987348",
+      "target": "271914496987348",
+      "text": "!fuck"
+    },
+    {
+      "at": "2026-06-22T04:13:26.771Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "271914496987348",
+      "target": "271914496987348",
+      "text": "!unmute"
+    },
+    {
+      "at": "2026-06-22T04:13:31.297Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "271914496987348",
+      "target": "271914496987348",
+      "text": "Hola"
+    },
+    {
+      "at": "2026-06-22T04:13:33.624Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "271914496987348",
+      "target": "271914496987348",
+      "text": "Soy gay"
+    },
+    {
+      "at": "2026-06-22T04:13:48.423Z",
+      "type": "mute-hit",
+      "group": "120363217414583189",
+      "sender": "271914496987348",
+      "target": "271914496987348",
+      "text": "Esquina es maricon"
+    },
+    {
+      "at": "2026-06-22T04:13:57.978Z",
+      "type": "unmute",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "target": "271914496987348"
+    }
+  ]
+}

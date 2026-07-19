@@ -1,0 +1,62 @@
+{
+  "groups": {
+    "120363420010950538": {
+      "muted": false,
+      "antilink": false,
+      "welcome": false,
+      "welcomeText": "Bienvenido {user}",
+      "byeText": "Adios {user}",
+      "warnings": {}
+    },
+    "120363217414583189": {
+      "muted": false,
+      "antilink": false,
+      "welcome": false,
+      "welcomeText": "Bienvenido {user}",
+      "byeText": "Adios {user}",
+      "warnings": {}
+    },
+    "120363408374129792": {
+      "muted": false,
+      "antilink": false,
+      "welcome": false,
+      "welcomeText": "Bienvenido {user}",
+      "byeText": "Adios {user}",
+      "warnings": {}
+    },
+    "status": {
+      "muted": false,
+      "antilink": false,
+      "welcome": false,
+      "welcomeText": "Bienvenido {user}",
+      "byeText": "Adios {user}",
+      "warnings": {}
+    },
+    "137975874768987": {
+      "muted": false,
+      "antilink": false,
+      "welcome": false,
+      "welcomeText": "Bienvenido {user}",
+      "byeText": "Adios {user}",
+      "warnings": {}
+    },
+    "120363423912748504": {
+      "muted": false,
+      "antilink": false,
+      "welcome": false,
+      "welcomeText": "Bienvenido {user}",
+      "byeText": "Adios {user}",
+      "warnings": {
+        "15315853438979": 3
+      }
+    },
+    "120363423912748504@g.us": {
+      "muted": false,
+      "antilink": false,
+      "welcome": false,
+      "welcomeText": "Bienvenido {user}",
+      "byeText": "Adios {user}",
+      "warnings": {}
+    }
+  }
+}

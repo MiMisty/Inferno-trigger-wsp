@@ -1,0 +1,509 @@
+{
+  "groups": {
+    "120363408374129792": {
+      "enabled": false,
+      "mode": "warn",
+      "infractions": {}
+    },
+    "120363217414583189": {
+      "enabled": true,
+      "mode": "warn",
+      "infractions": {}
+    },
+    "120363394791719983": {
+      "enabled": true,
+      "mode": "warn",
+      "infractions": {}
+    },
+    "status": {
+      "enabled": false,
+      "mode": "warn",
+      "infractions": {}
+    },
+    "573218048312-1628401968": {
+      "enabled": false,
+      "mode": "warn",
+      "infractions": {}
+    },
+    "120363423912748504": {
+      "enabled": false,
+      "mode": "warn",
+      "infractions": {}
+    },
+    "57420105691274": {
+      "enabled": false,
+      "mode": "warn",
+      "infractions": {}
+    }
+  },
+  "logs": [
+    {
+      "at": "2026-06-21T05:09:20.770Z",
+      "type": "config",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T05:11:47.947Z",
+      "type": "scan",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "mediaType": "image",
+      "score": 0,
+      "nsfw": false,
+      "skipped": true
+    },
+    {
+      "at": "2026-06-21T05:12:24.427Z",
+      "type": "config",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T05:22:01.700Z",
+      "type": "config",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T05:22:12.475Z",
+      "type": "scan",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "mediaType": "image",
+      "score": 0,
+      "nsfw": false,
+      "error": "this.provider.analyze is not a function"
+    },
+    {
+      "at": "2026-06-21T05:25:15.684Z",
+      "type": "config",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T05:26:19.256Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "score": 0,
+      "nsfw": false,
+      "error": "this.provider.analyze is not a function"
+    },
+    {
+      "at": "2026-06-21T05:30:10.861Z",
+      "type": "config",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T05:30:21.375Z",
+      "type": "scan",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "mediaType": "image",
+      "score": 0,
+      "nsfw": false,
+      "error": "this.provider.analyze is not a function"
+    },
+    {
+      "at": "2026-06-21T05:31:33.224Z",
+      "type": "config",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T05:31:39.669Z",
+      "type": "scan",
+      "group": "120363394791719983@g.us",
+      "by": "19151863197844",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false
+    },
+    {
+      "at": "2026-06-21T05:36:37.300Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "98651238043826",
+      "mediaType": "video",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false
+    },
+    {
+      "at": "2026-06-21T05:38:42.232Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false
+    },
+    {
+      "at": "2026-06-21T05:38:57.972Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "38049836740732",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false
+    },
+    {
+      "at": "2026-06-21T05:48:16.417Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false
+    },
+    {
+      "at": "2026-06-21T05:51:33.281Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "38049836740732",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false
+    },
+    {
+      "at": "2026-06-21T19:24:15.739Z",
+      "type": "config",
+      "group": "120363423912748504@g.us",
+      "by": "57420105691274",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T20:03:24.308Z",
+      "type": "scan",
+      "group": "120363423912748504@g.us",
+      "by": "56874527383732",
+      "mediaType": "video",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "The video shows people in a car, some wearing masks, and dancing. There is no explicit nudity, sexual activity, or suggestive content. The blurred parts are not indicative of NSFW content."
+    },
+    {
+      "at": "2026-06-21T20:15:12.132Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "98002949677193",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 47.888253028s."
+    },
+    {
+      "at": "2026-06-21T20:15:57.513Z",
+      "type": "config",
+      "group": "120363217414583189@g.us",
+      "by": "57420105691274",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-21T20:23:44.819Z",
+      "type": "scan",
+      "group": "120363217414583189@g.us",
+      "by": "98002949677193",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 15.201025722s."
+    },
+    {
+      "at": "2026-06-21T22:04:55.011Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "267713935081490",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra una pantalla de un dispositivo móvil con una transmisión en vivo de noticias sobre resultados electorales en Colombia. No contiene elementos NSFW."
+    },
+    {
+      "at": "2026-06-21T22:10:47.411Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra un dibujo de manga en blanco y negro de una persona llorando, sin contenido sexual o explícito."
+    },
+    {
+      "at": "2026-06-21T22:12:08.554Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "151509417332903",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra a un futbolista con su uniforme, no hay contenido sexual o desnudez."
+    },
+    {
+      "at": "2026-06-21T22:12:09.348Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "120363217414583189",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra a un futbolista con su uniforme, no hay contenido sexual o desnudez."
+    },
+    {
+      "at": "2026-06-21T23:10:34.064Z",
+      "type": "scan",
+      "group": "120363423912748504",
+      "by": "56874527383732",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 25.935456267s."
+    },
+    {
+      "at": "2026-06-22T00:47:45.780Z",
+      "type": "scan",
+      "group": "120363423912748504",
+      "by": "15315853438979",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra una pantalla de televisión con un presentador de noticias y texto relacionado con las elecciones de Colombia 2026. No hay contenido sexual explícito, desnudez o violencia."
+    },
+    {
+      "at": "2026-06-22T00:48:57.393Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "57420105691274",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra una pantalla de televisión con un presentador de noticias y texto relacionado con las elecciones de Colombia 2026. No hay contenido sexual explícito, desnudez o violencia.",
+      "cached": true
+    },
+    {
+      "at": "2026-06-22T01:03:56.338Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "267713935081490",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen es una ilustración de carácter político con figuras históricas y políticas, banderas y texto. No contiene elementos de desnudez, actividad sexual o contenido sexual explícito."
+    },
+    {
+      "at": "2026-06-22T01:10:37.249Z",
+      "type": "scan",
+      "group": "120363423912748504",
+      "by": "15315853438979",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 22.685596381s."
+    },
+    {
+      "at": "2026-06-22T01:46:54.861Z",
+      "type": "config",
+      "group": "120363423912748504",
+      "by": "57420105691274",
+      "enabled": true
+    },
+    {
+      "at": "2026-06-22T01:47:12.011Z",
+      "type": "config",
+      "group": "120363423912748504",
+      "by": "57420105691274",
+      "enabled": false
+    },
+    {
+      "at": "2026-06-22T03:13:04.793Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "271914496987348",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra personajes de anime con expresiones de miedo o angustia, pero no contiene desnudez, actividad sexual o contenido explícito."
+    },
+    {
+      "at": "2026-06-22T04:01:49.619Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "120363217414583189",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 10.274196755s."
+    },
+    {
+      "at": "2026-06-22T04:01:50.582Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "151509417332903",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra un personaje de anime vestido con ropa normal, sin contenido sexual explícito."
+    },
+    {
+      "at": "2026-06-22T04:03:26.074Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra un personaje de dibujos animados, Buzz Lightyear, que no contiene elementos NSFW."
+    },
+    {
+      "at": "2026-06-22T04:06:00.988Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "271914496987348",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "reason": "La imagen muestra un personaje de videojuego llamado Annie, que es una niña con orejas de gato y cabello rojo, en un marco de juego. No hay contenido sexual explícito ni desnudez."
+    },
+    {
+      "at": "2026-06-22T04:06:53.156Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 6.734907104s."
+    },
+    {
+      "at": "2026-06-22T04:07:40.974Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "151509417332903",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 18.923435733s."
+    },
+    {
+      "at": "2026-06-22T04:09:26.678Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 33.21680544s."
+    },
+    {
+      "at": "2026-06-22T04:10:12.043Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "271914496987348",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 47.854629319s."
+    },
+    {
+      "at": "2026-06-22T04:12:41.966Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "271914496987348",
+      "mediaType": "video",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 17.981126802s."
+    },
+    {
+      "at": "2026-06-22T04:14:24.956Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 34.960755944s."
+    },
+    {
+      "at": "2026-06-22T04:14:58.789Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.171170478s."
+    },
+    {
+      "at": "2026-06-22T04:16:03.229Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "151509417332903",
+      "mediaType": "video",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 56.689185526s."
+    },
+    {
+      "at": "2026-06-22T04:19:07.503Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 52.609007372s."
+    },
+    {
+      "at": "2026-06-22T04:24:25.454Z",
+      "type": "scan",
+      "group": "120363217414583189",
+      "by": "75845599277104",
+      "mediaType": "image",
+      "provider": "gemini",
+      "score": 0,
+      "nsfw": false,
+      "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 34.877947074s."
+    }
+  ]
+}

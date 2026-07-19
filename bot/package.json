@@ -1,0 +1,14 @@
+{
+  "name": "bandaland-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot - Fase 1",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "sharp": "^0.35.2"
+  },
+  "optionalDependencies": {
+    "ffmpeg-static": "^5.2.0"
+  }
+}
